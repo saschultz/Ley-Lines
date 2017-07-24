@@ -1,24 +1,7 @@
-# README
+# Ley Lines
+```
+Ley lines /leɪ laɪnz/
+ apparent alignments of places of significance in the geography or culture of an area, often including man-made structures. They are in the older sense, ancient, straight trackways in the landscape, or in the newer sense, spiritual and mystical alignments.
+```
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+### planning ...
