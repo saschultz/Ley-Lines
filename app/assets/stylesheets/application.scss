@@ -15,11 +15,16 @@
  *= require_self
  */
 
+body {
+  text-align: center;
 
- #map {
-  height: 600px;
-  width: 600px;
-  outline-width: 2px;
-  outline-color: black;
-  outline-style: solid;
-  }
+}
+
+#map {
+height: 600px;
+width: 600px;
+}
+
+.map-row {
+  margin-left: 245px;
+}
