@@ -3,6 +3,9 @@
 Ley lines /leɪ laɪnz/ :
  apparent alignments of places of significance in the geography or culture of an area, often including man-made structures. They are in the older sense, ancient, straight trackways in the landscape, or in the newer sense, spiritual and mystical alignments.
 
+## Project question
+  What are the lines that brought all of us together at Epicodus?
+
 ## Technologies
   * Google Maps API
   * Ruby 2.2.2
@@ -18,5 +21,7 @@ Ley lines /leɪ laɪnz/ :
 
 ## MVP ✔️ what's beyond?
   * visually represent routes based off mode of transportation
-  * extract route lines from the map and do cool D3 sh!t
+  * extract route lines from the map and do cool D3 magic ☄️
+  * Explore Deck GL
+  * Explore Encoded Polyline Algorithm https://developers.google.com/maps/documentation/utilities/polylinealgorithm
   * allow for generation of visualization based off dynamic data, with original hard coded data as example output
