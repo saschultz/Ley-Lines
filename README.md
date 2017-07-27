@@ -19,9 +19,11 @@ Ley lines /leɪ laɪnz/ :
   * then... take dynamic data for start location and display that route
 
 ## MVP ✔️ what's beyond?
+  * take dynamic data for multiple start locations and display all routes
   * visually represent overlaps/intersections
   * visually represent routes based off mode of transportation
-  * extract route lines from the map and do cool D3 magic ☄️
+  * extract route lines from the map and do D3 magic ☄️
+
+## Further Exploration  
   * Explore Deck GL
   * Explore Encoded Polyline Algorithm https://developers.google.com/maps/documentation/utilities/polylinealgorithm
-  * allow for generation of visualization based off dynamic data, with original hard coded data as example output
