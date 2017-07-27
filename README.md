@@ -7,19 +7,19 @@ Ley lines /leɪ laɪnz/ :
   What are the lines that brought all of us together at Epicodus?
 
 ## Technologies
-  * Google Maps API
+  * Google Maps API with Directions Service
   * Ruby 2.2.2
   * Rails 5.1.2
   * D3.js (beyond MVP)
 
 ## Let's talk MVP
   * implement Google Maps API direction services
-  * hard code central location
+  * hard code end location
   * first, display a single route on the map from hard coded data
-  * then... display multiple routes on the same map from hard coded data
-  * visually represent overlaps/intersections
+  * then... take dynamic data for start location and display that route
 
 ## MVP ✔️ what's beyond?
+  * visually represent overlaps/intersections
   * visually represent routes based off mode of transportation
   * extract route lines from the map and do cool D3 magic ☄️
   * Explore Deck GL
